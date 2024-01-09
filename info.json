@@ -1,5 +1,356 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": "Zu91lHqgffc",
+            "name": "Divine Illusion [Zu91lHqgffc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Divine Illusion [Zu91lHqgffc].mp4",
+            "size": 7.867444,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Divine Illusion [Zu91lHqgffc].mp4"
+        },
+        {
+            "id": "hWitRABYVBk",
+            "name": "Gil Scott Heron- Angel Dust [hWitRABYVBk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Gil Scott Heron- Angel Dust [hWitRABYVBk].mp4",
+            "size": 6.333488,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Gil Scott Heron- Angel Dust [hWitRABYVBk].mp4"
+        },
+        {
+            "id": "uIjQzuvPvBM",
+            "name": "En Tu Puerta Da La Luna (Taranto Y Taranta Malague\u00f1a) [uIjQzuvPvBM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/En Tu Puerta Da La Luna (Taranto Y Taranta Malague\u00f1a) [uIjQzuvPvBM].mp4",
+            "size": 9.911306999999999,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/En Tu Puerta Da La Luna (Taranto Y Taranta Malague\u00f1a) [uIjQzuvPvBM].mp4"
+        },
+        {
+            "id": "w2bv2wvGr3w",
+            "name": "Dweller in the Cellar [w2bv2wvGr3w].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Dweller in the Cellar [w2bv2wvGr3w].mp4",
+            "size": 16.013012,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Dweller in the Cellar [w2bv2wvGr3w].mp4"
+        },
+        {
+            "id": "1nmK2-WBMqU",
+            "name": "Monasterio De Sal (Remastered 2014) [1nmK2-WBMqU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Monasterio De Sal (Remastered 2014) [1nmK2-WBMqU].mp4",
+            "size": 11.003052,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Monasterio De Sal (Remastered 2014) [1nmK2-WBMqU].mp4"
+        },
+        {
+            "id": "M3fI6oerqxU",
+            "name": "Casilda (Remastered 2014) [M3fI6oerqxU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Casilda (Remastered 2014) [M3fI6oerqxU].mp4",
+            "size": 8.514028999999999,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Casilda (Remastered 2014) [M3fI6oerqxU].mp4"
+        },
+        {
+            "id": "wGsqQ1Vr218",
+            "name": "Impetu (Remastered 2014) [wGsqQ1Vr218].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Impetu (Remastered 2014) [wGsqQ1Vr218].mp4",
+            "size": 6.667224,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Impetu (Remastered 2014) [wGsqQ1Vr218].mp4"
+        },
+        {
+            "id": "ipuGyEpr-RY",
+            "name": "Ojos Verdes (Remastered 2014) [ipuGyEpr-RY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Ojos Verdes (Remastered 2014) [ipuGyEpr-RY].mp4",
+            "size": 10.813703,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Ojos Verdes (Remastered 2014) [ipuGyEpr-RY].mp4"
+        },
+        {
+            "id": "lcAkEYRMS_8",
+            "name": "Penance [lcAkEYRMS_8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Penance [lcAkEYRMS_8].mp4",
+            "size": 8.640969,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Penance [lcAkEYRMS_8].mp4"
+        },
+        {
+            "id": "w2CONpWHzyk",
+            "name": "Y T\u00fa No Me Respond\u00edas (Remastered 2014) [w2CONpWHzyk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Y T\u00fa No Me Respond\u00edas (Remastered 2014) [w2CONpWHzyk].mp4",
+            "size": 8.953638,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Y T\u00fa No Me Respond\u00edas (Remastered 2014) [w2CONpWHzyk].mp4"
+        },
+        {
+            "id": "_Q0dEhHspos",
+            "name": "Guajira Flamenca (Remastered 2014) [_Q0dEhHspos].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Guajira Flamenca (Remastered 2014) [_Q0dEhHspos].mp4",
+            "size": 8.691733,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Guajira Flamenca (Remastered 2014) [_Q0dEhHspos].mp4"
+        },
+        {
+            "id": "MU3f8viCseE",
+            "name": "Miguel Cal\u00f3 - Ra\u00fal Ber\u00f3n - Grandes \u00e9xitos - CD Completo [MU3f8viCseE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Miguel Cal\u00f3 - Ra\u00fal Ber\u00f3n - Grandes \u00e9xitos - CD Completo [MU3f8viCseE].mp4",
+            "size": 83.952075,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Miguel Cal\u00f3 - Ra\u00fal Ber\u00f3n - Grandes \u00e9xitos - CD Completo [MU3f8viCseE].mp4"
+        },
+        {
+            "id": "ING7SNSHBQ8",
+            "name": "Air [ING7SNSHBQ8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Air [ING7SNSHBQ8].mp4",
+            "size": 14.355595999999998,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Air [ING7SNSHBQ8].mp4"
+        },
+        {
+            "id": "YkTaS7SnCRk",
+            "name": "Jerry Hadley & Alan Titus - The Pearl Fishers duet - 1986 [YkTaS7SnCRk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Jerry Hadley & Alan Titus - The Pearl Fishers duet - 1986 [YkTaS7SnCRk].mp4",
+            "size": 10.369774,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Jerry Hadley & Alan Titus - The Pearl Fishers duet - 1986 [YkTaS7SnCRk].mp4"
+        },
+        {
+            "id": "_8FaTehh9xE",
+            "name": "Como El Agua (Tangos) [_8FaTehh9xE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Como El Agua (Tangos) [_8FaTehh9xE].mp4",
+            "size": 8.344154999999999,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Como El Agua (Tangos) [_8FaTehh9xE].mp4"
+        },
+        {
+            "id": "LbftULn5npA",
+            "name": "Te Deum Guarani [LbftULn5npA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Te Deum Guarani [LbftULn5npA].mp4",
+            "size": 1.7632619999999999,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Te Deum Guarani [LbftULn5npA].mp4"
+        },
+        {
+            "id": "d2Te34GXGIM",
+            "name": "Zyryab (Remastered 2014) [d2Te34GXGIM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Zyryab (Remastered 2014) [d2Te34GXGIM].mp4",
+            "size": 14.08772,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Zyryab (Remastered 2014) [d2Te34GXGIM].mp4"
+        },
+        {
+            "id": "TKd_f2QBpvQ",
+            "name": "Charles Mingus - Let my children hear music (full album) (HD 720p) [TKd_f2QBpvQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Charles Mingus - Let my children hear music (full album) (HD 720p) [TKd_f2QBpvQ].mp4",
+            "size": 89.271103,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Charles Mingus - Let my children hear music (full album) (HD 720p) [TKd_f2QBpvQ].mp4"
+        },
+        {
+            "id": "VNnBtks188A",
+            "name": "Plaza Alta (Remastered 2014) [VNnBtks188A].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Plaza Alta (Remastered 2014) [VNnBtks188A].mp4",
+            "size": 13.930845,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Plaza Alta (Remastered 2014) [VNnBtks188A].mp4"
+        },
+        {
+            "id": "guPvAoy5_Hs",
+            "name": "La Barrosa (Remastered 2014) [guPvAoy5_Hs].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/La Barrosa (Remastered 2014) [guPvAoy5_Hs].mp4",
+            "size": 10.43416,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/La Barrosa (Remastered 2014) [guPvAoy5_Hs].mp4"
+        },
+        {
+            "id": "oa4tQ3HD_gI",
+            "name": "Panaderos Flamencos (Remastered 2014) [oa4tQ3HD_gI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Panaderos Flamencos (Remastered 2014) [oa4tQ3HD_gI].mp4",
+            "size": 5.913238,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Panaderos Flamencos (Remastered 2014) [oa4tQ3HD_gI].mp4"
+        },
+        {
+            "id": "Je_JJVF1vwI",
+            "name": "Anda Jaleo (Remastered 2014) [Je_JJVF1vwI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Anda Jaleo (Remastered 2014) [Je_JJVF1vwI].mp4",
+            "size": 8.975636999999999,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Anda Jaleo (Remastered 2014) [Je_JJVF1vwI].mp4"
+        },
+        {
+            "id": "Uw5A1J2OTY4",
+            "name": "V\u00e1monos (Live In Spain \u29f8 2010) [Uw5A1J2OTY4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/V\u00e1monos (Live In Spain \u29f8 2010) [Uw5A1J2OTY4].mp4",
+            "size": 24.991069,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/V\u00e1monos (Live In Spain \u29f8 2010) [Uw5A1J2OTY4].mp4"
+        },
+        {
+            "id": "vYlnNfhQd3s",
+            "name": "Fuente Y Caudal (Remastered 2014) [vYlnNfhQd3s].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Fuente Y Caudal (Remastered 2014) [vYlnNfhQd3s].mp4",
+            "size": 11.768412,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Fuente Y Caudal (Remastered 2014) [vYlnNfhQd3s].mp4"
+        },
+        {
+            "id": "RdIa6DoNQAI",
+            "name": "Temple of the Absurd [RdIa6DoNQAI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Temple of the Absurd [RdIa6DoNQAI].mp4",
+            "size": 11.944690999999999,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Temple of the Absurd [RdIa6DoNQAI].mp4"
+        },
+        {
+            "id": "adKwG9ZuzFw",
+            "name": "Sibelius - Karelia Suite [adKwG9ZuzFw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Sibelius - Karelia Suite [adKwG9ZuzFw].mp4",
+            "size": 48.682575,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Sibelius - Karelia Suite [adKwG9ZuzFw].mp4"
+        },
+        {
+            "id": "demdlhrZBtA",
+            "name": "Altitudes [demdlhrZBtA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Altitudes [demdlhrZBtA].mp4",
+            "size": 14.468518,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Altitudes [demdlhrZBtA].mp4"
+        },
+        {
+            "id": "IyjU7kULJB8",
+            "name": "Opus Pocus [IyjU7kULJB8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Opus Pocus [IyjU7kULJB8].mp4",
+            "size": 14.355673,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Opus Pocus [IyjU7kULJB8].mp4"
+        },
+        {
+            "id": "rRR46mN7mx0",
+            "name": "Mar\u00eda De La O (Remastered 2014) [rRR46mN7mx0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Mar\u00eda De La O (Remastered 2014) [rRR46mN7mx0].mp4",
+            "size": 8.88079,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Mar\u00eda De La O (Remastered 2014) [rRR46mN7mx0].mp4"
+        },
+        {
+            "id": " - copy (1)",
+            "name": "Peter and the Wolf, Op. 67\uff1a Nos. 1-14 (music only) [Fmi5zHg4QSM] - copy (1).mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Peter and the Wolf, Op. 67\uff1a Nos. 1-14 (music only) [Fmi5zHg4QSM] - copy (1).mp4",
+            "size": 41.063533,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Peter and the Wolf, Op. 67\uff1a Nos. 1-14 (music only) [Fmi5zHg4QSM] - copy (1).mp4"
+        },
+        {
+            "id": "7e_PZsBMbCg",
+            "name": "Perpetual Burn [7e_PZsBMbCg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Perpetual Burn [7e_PZsBMbCg].mp4",
+            "size": 8.888328,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Perpetual Burn [7e_PZsBMbCg].mp4"
+        },
+        {
+            "id": "5jgIglWnPUI",
+            "name": "Jacqueline du Pr\u00e9-Mendelssohn-Granados-Saint-Sa\u00ebns (HD) [5jgIglWnPUI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Jacqueline du Pr\u00e9-Mendelssohn-Granados-Saint-Sa\u00ebns (HD) [5jgIglWnPUI].mp4",
+            "size": 86.11591,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Jacqueline du Pr\u00e9-Mendelssohn-Granados-Saint-Sa\u00ebns (HD) [5jgIglWnPUI].mp4"
+        },
+        {
+            "id": "N6ae_DLTdIg",
+            "name": "Eleven Blue Egyptians [N6ae_DLTdIg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Eleven Blue Egyptians [N6ae_DLTdIg].mp4",
+            "size": 14.546539999999998,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Eleven Blue Egyptians [N6ae_DLTdIg].mp4"
+        },
+        {
+            "id": "14nZDi7S81Q",
+            "name": "Day Of Anger [14nZDi7S81Q].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Day Of Anger [14nZDi7S81Q].mp4",
+            "size": 6.641172,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Day Of Anger [14nZDi7S81Q].mp4"
+        },
+        {
+            "id": "OoUBZ43M2WY",
+            "name": "Sibelius - Valse Triste - Finland slideshow - Karajan [OoUBZ43M2WY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Sibelius - Valse Triste - Finland slideshow - Karajan [OoUBZ43M2WY].mp4",
+            "size": 27.653579999999998,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Sibelius - Valse Triste - Finland slideshow - Karajan [OoUBZ43M2WY].mp4"
+        },
+        {
+            "id": "5h4S8vvwYTU",
+            "name": "Mabel's Fatal Fable [5h4S8vvwYTU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Mabel's Fatal Fable [5h4S8vvwYTU].mp4",
+            "size": 12.368369999999999,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Mabel's Fatal Fable [5h4S8vvwYTU].mp4"
+        },
+        {
+            "id": "TTcjUkSX-Ec",
+            "name": "Aires De Linares (Remastered 2014) [TTcjUkSX-Ec].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Aires De Linares (Remastered 2014) [TTcjUkSX-Ec].mp4",
+            "size": 13.662839,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Aires De Linares (Remastered 2014) [TTcjUkSX-Ec].mp4"
+        },
+        {
+            "id": "cb2w2m1JmCY",
+            "name": "Duke Ellington, \uff02Take the A Train\uff02 [cb2w2m1JmCY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Duke Ellington, \uff02Take the A Train\uff02 [cb2w2m1JmCY].mp4",
+            "size": 9.529791,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Duke Ellington, \uff02Take the A Train\uff02 [cb2w2m1JmCY].mp4"
+        },
+        {
+            "id": "OnRy3kaG7LM",
+            "name": "Buana Buana King Kong (Remastered 2014 \u29f8 Live In America \u29f8 1993) [OnRy3kaG7LM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Buana Buana King Kong (Remastered 2014 \u29f8 Live In America \u29f8 1993) [OnRy3kaG7LM].mp4",
+            "size": 11.811257999999999,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Buana Buana King Kong (Remastered 2014 \u29f8 Live In America \u29f8 1993) [OnRy3kaG7LM].mp4"
+        },
+        {
+            "id": "KPbJc4eHY54",
+            "name": "Luzia (Remastered 2014) [KPbJc4eHY54].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Luzia (Remastered 2014) [KPbJc4eHY54].mp4",
+            "size": 12.727342,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Luzia (Remastered 2014) [KPbJc4eHY54].mp4"
+        },
+        {
+            "id": "rbJF5c7cHMg",
+            "name": "Tio Sabas (Remastered 2014) [rbJF5c7cHMg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Tio Sabas (Remastered 2014) [rbJF5c7cHMg].mp4",
+            "size": 11.413300999999999,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Tio Sabas (Remastered 2014) [rbJF5c7cHMg].mp4"
+        },
+        {
+            "id": "9X_f5hhs98o",
+            "name": "Strauss II - Morning Papers Waltz [9X_f5hhs98o].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Strauss II - Morning Papers Waltz [9X_f5hhs98o].mp4",
+            "size": 15.800714999999999,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Strauss II - Morning Papers Waltz [9X_f5hhs98o].mp4"
+        },
+        {
+            "id": "ia08eAsinCE",
+            "name": "FELA KUTI - VIVA NIGERIA [ia08eAsinCE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/FELA KUTI - VIVA NIGERIA [ia08eAsinCE].mp4",
+            "size": 5.520142,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/FELA KUTI - VIVA NIGERIA [ia08eAsinCE].mp4"
+        },
+        {
+            "id": "TCSQAIzmXfA",
+            "name": "Ferdinand Ries\uff1a Piano Concerto No. 7 in A minor, Op. 132 'Farewell to England' [TCSQAIzmXfA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Ferdinand Ries\uff1a Piano Concerto No. 7 in A minor, Op. 132 'Farewell to England' [TCSQAIzmXfA].mp4",
+            "size": 35.282281999999995,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Ferdinand Ries\uff1a Piano Concerto No. 7 in A minor, Op. 132 'Farewell to England' [TCSQAIzmXfA].mp4"
+        },
+        {
+            "id": "6ug7RVUgeWo",
+            "name": "Canci\u00f3n Del Fuego Fatuo (Remastered 2014) [6ug7RVUgeWo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Canci\u00f3n Del Fuego Fatuo (Remastered 2014) [6ug7RVUgeWo].mp4",
+            "size": 9.165769,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Canci\u00f3n Del Fuego Fatuo (Remastered 2014) [6ug7RVUgeWo].mp4"
+        },
+        {
+            "id": "MPEpFewv1uM",
+            "name": "Solo Quiero Caminar (Remastered 2014) [MPEpFewv1uM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Solo Quiero Caminar (Remastered 2014) [MPEpFewv1uM].mp4",
+            "size": 14.125846999999998,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Solo Quiero Caminar (Remastered 2014) [MPEpFewv1uM].mp4"
+        },
+        {
+            "id": "nIBrBRGWufU",
+            "name": "Moraito Siempre (Live In Spain \u29f8 2010) [nIBrBRGWufU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Moraito Siempre (Live In Spain \u29f8 2010) [nIBrBRGWufU].mp4",
+            "size": 35.860213,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Moraito Siempre (Live In Spain \u29f8 2010) [nIBrBRGWufU].mp4"
+        },
+        {
+            "id": "PZN4PaBZ8LE",
+            "name": "Rumba Improvisada (Remastered 2014) [PZN4PaBZ8LE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Rumba Improvisada (Remastered 2014) [PZN4PaBZ8LE].mp4",
+            "size": 9.297068,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Rumba Improvisada (Remastered 2014) [PZN4PaBZ8LE].mp4"
+        },
+        {
+            "id": "WlT3SzfyrJ4",
+            "name": "Mi Ni\u00f1o Curro (Live In Spain \u29f8 2010) [WlT3SzfyrJ4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Mi Ni\u00f1o Curro (Live In Spain \u29f8 2010) [WlT3SzfyrJ4].mp4",
+            "size": 18.868329,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Mi Ni\u00f1o Curro (Live In Spain \u29f8 2010) [WlT3SzfyrJ4].mp4"
+        },
+        {
+            "id": "xwWkZ1pNOtU",
+            "name": "Te He De Querer Mientras Viva (Remastered 2014) [xwWkZ1pNOtU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/b5/videos/Te He De Querer Mientras Viva (Remastered 2014) [xwWkZ1pNOtU].mp4",
+            "size": 8.000852,
+            "url": "https://github.com/circuitalmynds/music_b5/raw/main/videos/Te He De Querer Mientras Viva (Remastered 2014) [xwWkZ1pNOtU].mp4"
+        }
+    ],
+    "total_size": 908.242073
 }
